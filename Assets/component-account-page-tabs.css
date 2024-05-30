@@ -1,0 +1,45 @@
+h0{
+  font-size: calc(40px + (52 - 40) * (100vw - 375px) / (1440 - 375));
+}
+h1{
+  font-size: calc(30px + (40 - 30) * (100vw - 375px) / (1440 - 375));
+}
+h2{
+  font-size: calc(20px + (24 - 20) * (100vw - 375px) / (1440 - 375));
+}
+p{
+  margin: 0;
+  font-size: calc(16px + (21 - 16) * (100vw - 375px) / (1440 - 375));
+}
+.left {
+  text-align: left;
+}
+.right {
+  text-align: right;
+}
+.center {
+  text-align: center;
+}
+.account-page-tab {
+  background: #895e59;
+  color: white;
+  border-left: 8px solid #bc9891;
+  padding: 0px 20px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 52px;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+.account-page-tab-title {
+  padding-left: 15px;
+  font-size: calc(14px + (16 - 14) * (100vw - 375px) / (1440 - 375));
+  font-weight: bold;
+}
+.account-page-tabs a {
+  text-decoration: none;
+}
+.account-page-tabs svg path {
+  fill: white;
+}
