@@ -3,7 +3,8 @@
 
 This section outlines how to implement Account Page Tabs on your Shopify storefront. These tabs will improve navigation within the account page, making it more user-friendly.
 
-**Live Preview Link**: https://dummyimage.com/
+**Live Preview Link**: https://arshiyas-development-store.myshopify.com/?preview_theme_id=168630354233
+Password : Marmeto
 
 ## Implementation Steps
 
